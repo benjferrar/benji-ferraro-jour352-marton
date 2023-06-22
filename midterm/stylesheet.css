@@ -1,0 +1,37 @@
+#headline{
+  font-family: Arial;  
+}
+.h2 {
+  font-family: serif;
+  font-size: 15px; 
+}
+.body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+}
+#author {
+    font-style: italic;
+}   
+#subtitle {
+    text-align: center;
+    font-size: 20px;
+}
+blockquote {
+    background-color: black;
+    color: white;
+    border-left: 10px;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+    quotes: "\201C""\201D""\2018""\2019";
+  }
+  blockquote:before {
+    color: white;
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+  }
+  blockquote p {
+    display: inline;
+  }
