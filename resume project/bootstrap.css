@@ -1,0 +1,36 @@
+#about {
+    text-align: center;
+    padding: 40px;
+  }
+  #about img {
+    width: 200px;
+    
+  }
+  #about h1 {
+    margin: 25px;
+  }
+  section {
+    padding-bottom: 40px;
+  }
+  .insert .insert-head {
+    cursor: pointer;
+  }
+ #experience {
+    text-align: center;
+ }
+ #contact {
+    text-align: center;
+ }
+ .row {
+    text-align: center;
+ }
+.nameabout {
+    color: cyan;
+    font-size: 50px;
+}
+a {
+    font-weight: bolder;
+}
+h4 {
+    text-align: center;
+}

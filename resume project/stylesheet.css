@@ -1,0 +1,27 @@
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+}
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+strong {
+    color: black;
+}
+.footer{
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: cyan;
+};
+.li {
+    font-weight: bold;
+}
+.h5 {
+    font-weight: bolder;
+}
+p {
+    font-weight: bold;
+}
