@@ -1,0 +1,15 @@
+.text-footer p {
+    text-align: center;
+    color: white;
+}
+footer {
+    background-color: black;
+}
+p {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1em;
+}
+iframe {
+    height: auto;
+    max-width: 50%
+}
